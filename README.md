@@ -21,17 +21,6 @@ I’m a data analyst obsessed with transforming chaos into clarity—whether it�
 
 ---
 
-## 🛠 **Tech Arsenal** 🔥
-
-🔹 **Microsoft Excel** – The magic wand of data! Mastery in Pivot Tables, Advanced Formulas, VBA Macros & Automation.  
-🔹 **Power BI** – Crafting mesmerizing dashboards with DAX, Power Query & real-time analytics.  
-🔹 **SQL** – The language of databases! Expertise in Query Optimization, Data Extraction, Joins & Aggregations.  
-🔹 **Python** – Unlocking data's full potential with Pandas, NumPy, Matplotlib & Seaborn.  
-🔹 **Tableau** – Stunning visualizations to narrate compelling data stories.  
-🔹 **Data Storytelling** – Transforming complex data into understandable insights.  
-
----
-
 ## 🌿 About Me  
 - 🔍 **Mission**: Find the "why" behind the numbers.  
 - 🛠️ **Toolkit**: Python (Pandas, NumPy) | SQL | Tableau | Power BI | Excel  
